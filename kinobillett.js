@@ -1,0 +1,16 @@
+const billettRegistering = [];
+function  kjopBillett() {
+
+       const fornavn = document.getElementById("fornavn").value;
+       const etternavn = document.getElementById("etternavn").value;
+       const telefon = document.getElementById("telefon").value;
+       const epost = document.getElementById("epost").value;
+       const billett = {
+           fornavn,etternavn,telefon,epost
+       };
+    billettRegistering.push(billett);
+
+}
+function visBillett(){
+    
+}

@@ -12,7 +12,7 @@ function  kjopBillett() {
        };
     billettRegistering.push(billett);
     visBillett(billettRegistering);
-
+    document.getElementById("billettForm").reset();
 }
 function visBillett(){
 

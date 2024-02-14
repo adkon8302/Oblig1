@@ -8,7 +8,8 @@
 </head>
 <body>
 <h1>Bestilling av Kinobilett</h1>
-Velg film her: <Select id="film" onchange="velgFilm();">
+<form id="billettForm">
+Velg film her: <Select id="film">
   <option> The Amazing spider Man</option>
   <option> Spider Man</option>
   <option> Spider Man: Homecoming</option>
@@ -22,9 +23,10 @@ Fornavn <input id="fornavn" type="text"><br>
 Etternavn <input id="etternavn" type="text"><br>
 TelefonNr <input id="telefon" type="text"><br>
 Epost <input id="epost" type="text"><br><br>
-<button onclick="visBillett()">Kjøp billett</button>
+</form>
+<button onclick="kjopBillett()">Kjøp billett</button>
 <h2>Alle Billetter</h2><br>
-<div id="kundeRegister"></div>
+<div id="billettRegister"></div>
 <button onclick="">Slett alle Billetter</button>
 </body>
 </html>

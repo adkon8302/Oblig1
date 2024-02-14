@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="00313f00-ee88-4e1f-8fa2-c1e3d999aea6" name="Changes" comment="endra litt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kinobillett.js" beforeDir="false" afterPath="$PROJECT_DIR$/kinobillett.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,7 @@
       <workItem from="1707562112476" duration="831000" />
       <workItem from="1707564672910" duration="9857000" />
       <workItem from="1707743220105" duration="596000" />
-      <workItem from="1707905118173" duration="694000" />
+      <workItem from="1707905118173" duration="5420000" />
     </task>
     <task id="LOCAL−00001" summary="Lagde html">
       <option name="closed" value="true" />
@@ -109,7 +111,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1707905766462</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="endra litt">
+      <option name="closed" value="true" />
+      <created>1707906026642</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1707906026643</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

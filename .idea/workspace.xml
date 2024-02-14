@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00313f00-ee88-4e1f-8fa2-c1e3d999aea6" name="Changes" comment="displaye fra input">
+    <list default="true" id="00313f00-ee88-4e1f-8fa2-c1e3d999aea6" name="Changes" comment="noe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kinobillett.js" beforeDir="false" afterPath="$PROJECT_DIR$/kinobillett.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <workItem from="1707562112476" duration="831000" />
       <workItem from="1707564672910" duration="9857000" />
       <workItem from="1707743220105" duration="596000" />
-      <workItem from="1707905118173" duration="8724000" />
+      <workItem from="1707905118173" duration="10092000" />
     </task>
     <task id="LOCAL−00001" summary="Lagde html">
       <option name="closed" value="true" />
@@ -132,7 +131,14 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1707913600491</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="noe">
+      <option name="closed" value="true" />
+      <created>1707916777366</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1707916777367</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +161,7 @@
     <MESSAGE value="Lagde billettregistering" />
     <MESSAGE value="endra litt" />
     <MESSAGE value="displaye fra input" />
-    <option name="LAST_COMMIT_MESSAGE" value="displaye fra input" />
+    <MESSAGE value="noe" />
+    <option name="LAST_COMMIT_MESSAGE" value="noe" />
   </component>
 </project>

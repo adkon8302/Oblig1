@@ -33,3 +33,7 @@ function visBillett(){
 }
     
 }
+function slettBilletter () {
+    billettRegistering.length = 0
+    document.getElementById("billettRegister").innerHTML = "";
+}

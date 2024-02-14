@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00313f00-ee88-4e1f-8fa2-c1e3d999aea6" name="Changes" comment="endra litt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kinobillett.js" beforeDir="false" afterPath="$PROJECT_DIR$/kinobillett.js" afterDir="false" />
-    </list>
+    <list default="true" id="00313f00-ee88-4e1f-8fa2-c1e3d999aea6" name="Changes" comment="displaye fra input" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,7 @@
       <workItem from="1707562112476" duration="831000" />
       <workItem from="1707564672910" duration="9857000" />
       <workItem from="1707743220105" duration="596000" />
-      <workItem from="1707905118173" duration="5420000" />
+      <workItem from="1707905118173" duration="5778000" />
     </task>
     <task id="LOCAL−00001" summary="Lagde html">
       <option name="closed" value="true" />
@@ -118,7 +114,14 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1707906026643</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="displaye fra input">
+      <option name="closed" value="true" />
+      <created>1707913265529</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1707913265529</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +143,7 @@
     <MESSAGE value="lagde js-fil" />
     <MESSAGE value="Lagde billettregistering" />
     <MESSAGE value="endra litt" />
-    <option name="LAST_COMMIT_MESSAGE" value="endra litt" />
+    <MESSAGE value="displaye fra input" />
+    <option name="LAST_COMMIT_MESSAGE" value="displaye fra input" />
   </component>
 </project>
